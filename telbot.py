@@ -1,6 +1,6 @@
 import telebot
 #lanprin
-bot = telebot.TeleBot('7437685448:AAE8wsoD5AYC1ROL_4MukCfxY5jJTmiFHFY')
+bot = telebot.TeleBot('')
 
 # Handler for /start command
 @bot.message_handler(commands=['start'])
