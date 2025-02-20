@@ -37,7 +37,7 @@ Asyncio for handling asynchronous operations
 
 Clone the repository.
 
-git clone https://github.com/yourusername/fighter-jet-bot.git
+git clone https://github.com/sherlemp28/fighter-jet-bot.git
 
 cd fighter-jet-bot
 
